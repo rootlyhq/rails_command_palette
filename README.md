@@ -6,7 +6,7 @@ A command palette for Rails using Stimulus and [Ninja Keys](https://github.com/s
 
 Install the gem:
 
-    bundle add rails_command_palette
+    bundle add rails_command_palette --github=rootlyhq/rails_command_palette
 
 Install Ninja Keys:
 
